@@ -1,6 +1,17 @@
-# ev3dev-python-pixy
+# ev3dev-python-pixy+Roborealm+Python Standalone on PC
+
+
+
 ev3dev python pixy driver via fastread
 
-this python connecting to roborealm via udp client. change the network settings to yours.
+first start screen on the ev3dev and run (Remote Connection from PC to the ev3)
+rpyc_classic.py
+http://rpyc.readthedocs.io/en/latest/
 
-change the directory to sensor0 if needed
+
+on second screen run the pixy driver modul, to send the pixy data to roborealm
+
+
+start the Main python script on the windows pc with roborealm installed.
+
+
